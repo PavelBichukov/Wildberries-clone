@@ -1,6 +1,5 @@
 ### Wildberries-clone project
 
-[DemoLink](https://kluyko-pavel.github.io/Wildberries-clone/)
 
 ---
 
